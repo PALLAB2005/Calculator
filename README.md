@@ -148,7 +148,7 @@ Possible future enhancements include:
 Frontend Developer | BCA Student
 
 🔗 GitHub: [Your GitHub Profile](https://github.com/)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+🔗 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/pallab-bag-816842332)
 
 ## 📄 License
 
