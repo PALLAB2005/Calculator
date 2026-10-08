@@ -22,7 +22,7 @@ It supports:
 - Keyboard input support
 - Responsive design
 
-## ✨ Features
+## ✨ Features:
 
 ### 🔢 Basic Arithmetic
 Perform common mathematical calculations including addition, subtraction, multiplication, and division.
