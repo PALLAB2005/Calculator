@@ -30,7 +30,7 @@ Perform common mathematical calculations including addition, subtraction, multip
 ### 🖥️ Interactive Display:
 The calculator display updates dynamically as the user enters numbers and operators.
 
-### 🧹 Clear Function
+### 🧹 Clear Function:
 A dedicated clear button allows users to reset the calculator instantly.
 
 ### ⌨️ Keyboard Support
