@@ -6,7 +6,7 @@ A modern and responsive calculator built using **HTML, CSS, and JavaScript**. Th
 
 🔗 **Live Demo:** [Add your deployed website link here]
 
-## 📌 Project Overview
+## 📌 Project Overview:
 
 This calculator is designed to perform basic mathematical operations through an easy-to-use interface.
 
