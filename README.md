@@ -24,7 +24,7 @@ It supports:
 
 ## ✨ Features:
 
-### 🔢 Basic Arithmetic
+### 🔢 Basic Arithmetic:
 Perform common mathematical calculations including addition, subtraction, multiplication, and division.
 
 ### 🖥️ Interactive Display
