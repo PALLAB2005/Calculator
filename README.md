@@ -27,7 +27,7 @@ It supports:
 ### 🔢 Basic Arithmetic:
 Perform common mathematical calculations including addition, subtraction, multiplication, and division.
 
-### 🖥️ Interactive Display
+### 🖥️ Interactive Display:
 The calculator display updates dynamically as the user enters numbers and operators.
 
 ### 🧹 Clear Function
