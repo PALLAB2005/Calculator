@@ -1,4 +1,4 @@
-# 🧮 Calculator
+# 🧮 Calculator:
 
 A modern and responsive calculator built using **HTML, CSS, and JavaScript**. This project provides a clean user interface with basic arithmetic operations, real-time calculation, and keyboard support.
 
